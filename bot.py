@@ -15,8 +15,8 @@ import discord
 
 
 load_dotenv()
-TOKEN = 'OTk3MDg3MDU2Mjg1MTM5MDI0.GVzjTg.UEmng_rEpYHpDEZi0XzeNQCeWmUNUO-SndYzdE'
-GUILD = '997104574588538880'
+TOKEN = 'replace with Your bot token here'
+GUILD = 'replace with you Guild here'
 
 
 intents = discord.Intents.default()
